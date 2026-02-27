@@ -26,7 +26,7 @@
 
    The goal is to make it straightforward to run and operate mining setups in a repeatable way.
 
-   ### Node Management (NodeOP / Litenode)
+   ### Node Management 
 
    Our node‑oriented projects focus on:
 
